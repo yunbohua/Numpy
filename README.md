@@ -1,1 +1,2 @@
-# Numpy
+# Introduction
+I've completed courses related to linear algebra and basic statistics. Since I had time to explore more during the summer break, I did quite some practice in python regarding linear algebra, statistics, linear regression, etc., to prepare myself for machine learning classes. I gleaned all the questions I've done (both in python and by hand), singled out the most representative, and compiled them into this document as a tutorial for those new to Jupyter. I hope those who are interested will find this document helpful!
