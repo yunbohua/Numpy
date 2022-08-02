@@ -3,7 +3,7 @@ I've completed courses related to linear algebra and basic statistics. Since I h
 
 This document demonstrates the usage of the most **fundamental functions** involved in matrix operations in numpy and their associated **caveats**.<br>
 
-**Table of the content**:<br>
+**Table of Contents**:<br>
 
 &nbsp;&nbsp;&nbsp;1. Introduction (we are here)<br>
 &nbsp;&nbsp;&nbsp;2. Import numpy<br>
